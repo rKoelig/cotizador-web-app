@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993217397795",
+    "project_id": "app-cotizador-38087",
+    "storage_bucket": "app-cotizador-38087.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993217397795:android:03e8d2171735c4c728dd96",
+        "android_client_info": {
+          "package_name": "com.example.cotizador_web_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnoz3wYJ0u9hxDmRjTXDbVaw7j0PJoSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
